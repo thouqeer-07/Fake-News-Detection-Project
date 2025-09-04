@@ -1,6 +1,6 @@
 # Fake-News-Detection-Project
 
-##GUIDE TO RUN
+GUIDE TO RUN
 
 1. DOWNLOAD ALL THE FILES 
 2. OPEN CMD CD "FOLDER PATH"
